@@ -18,5 +18,6 @@ public class Demo2 {
 		Student std1=new Student("Noel",59,"CSE");
 		std1.printStudentInfo();
 		Student std2=new Student("Alwin",16,"CSE");
+		std2.printStudentInfo();
 	}
 }
